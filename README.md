@@ -1,2 +1,2 @@
-# CS162
-Projects from OSU CS162-Intro to Computer Science II
+# Indroductor to Computer Science II
+Projects from Intro to Computer Science II
